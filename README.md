@@ -1,4 +1,4 @@
-# Lotion - Note taking app
+# Lotion - Full-stack note taking app
 
 ## Overview
 
