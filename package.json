@@ -1,0 +1,14 @@
+{
+  "name": "lotion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "email": "contact.acero.hernan@gmail.com",
+    "name": "Hernan Acero"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
